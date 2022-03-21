@@ -1,0 +1,12 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+
+* text=auto
+
+*.kt text
+*.java text
+*.xml text
+*.html text
+*.js text
+*.htm text
+*.css text
+
